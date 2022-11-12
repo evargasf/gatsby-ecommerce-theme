@@ -30,17 +30,17 @@ const IndexPage = () => {
       <Hero
         maxWidth={'500px'}
         image={'/banner1.png'}
-        title={'AI-MOVIE'}
-        subtitle={'The Social Network that create movies with Artificial Intelligence!'}
-        ctaText={'Shop AI-MOVIE now'}
+        title={'Essentials for a cold winter'}
+        subtitle={'Discover Autumn Winter 2021'}
+        ctaText={'Shop now'}
         ctaAction={goToShop}
       />
 
       {/* Message Container */}
       <div className={styles.messageContainer}>
         <p>
-          This is a demonstration of the AI MOVIE theme for verse by{' '}
-          <span className={styles.gold}>AI MOVIE.</span>
+          This is a demonstration of the SYDNEY theme for verse by{' '}
+          <span className={styles.gold}>MATTER DESIGN.</span>
         </p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
