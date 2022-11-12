@@ -5,6 +5,6 @@ describe('sample render test', () => {
 
   it('displays the title text', () => {
     cy.get('h2')
-    .contains('AI-MOVIE: Social network that create movies with artificial intelligence! ');
+    .contains('AI-MOVIE: Social network that create movies with artificial intelligence!');
   })
 }) 
